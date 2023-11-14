@@ -4,8 +4,7 @@
 ## Note
 - This project is currently under development and may not be stable or ready for use yet!
 - How to use:
-```
-    `#000000`
+```js
     1. Have a Minecraft Server SetUp
     2. Put jar file into Plugin Folder
     3. Feel free to play around
