@@ -7,5 +7,5 @@
 ```js
     1. Have a Minecraft Server SetUp
     2. Put jar file into Plugin Folder
-    3. Feel free to play around
+    3. Start experimenting
 ```
