@@ -1,0 +1,5 @@
+name: BedRegeneration
+version: '${project.version}'
+main: axeltwc.bedregeneration.BedRegeneration
+api-version: '1.19'
+author: AxelTWC

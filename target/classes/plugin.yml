@@ -1,0 +1,5 @@
+name: BedRegeneration
+version: '1.0-SNAPSHOT'
+main: axeltwc.bedregeneration.BedRegeneration
+api-version: '1.19'
+author: AxelTWC
